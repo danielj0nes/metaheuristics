@@ -1,6 +1,6 @@
-# Group-07
+# Applied Metaheuristics
 
-In this coursework we look at generating improved solutions to the Travelling Salesman Problem using metaheuristics. In particular **Ant Colonony Optimisation** and a variant of the **Genetic Algorithm** are used. We initally compare the two metaheuristics against a greedy nearest neighbour algorithm and then against one another.
+In this work, we look at generating improved solutions to the 'Travelling Salesman Problem' using metaheuristics. In particular **Ant Colonony Optimisation** and a variant of the **Genetic Algorithm** are used. We initally compare the two metaheuristics against a greedy nearest neighbour algorithm and then against one another.
 
 ## First time setup
 
